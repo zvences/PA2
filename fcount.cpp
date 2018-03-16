@@ -1,7 +1,7 @@
 // CS 3377.0W1 Programming Assignment 2
 // zxv160130
 // Zoraida Vences
-//
+
 // This program accepts the absolute path of a directory
 // in a UNIX file system. It will traverse the given
 // directory and separately count 1) the total number of
